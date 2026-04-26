@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Adin+Fauzan.;💻+A+self+taught+programmer,+student.;👨🏻‍💻+Full+Stack+Developer.)](https://github.com/Adinfauzan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Adin+Fauzan.;💻+A+self+taught+programmer,+student.;👨🏻‍💻+Full+Stack+Developer.)](https://github.com/Adinfauzani)
 
 </div>
   
@@ -22,10 +22,10 @@
 <!--
 Spotify
 -->
-
+<br><br>
 <div align="center">
   <a href="https://open.spotify.com/user/31mkyzow45mnwk4a33vsb2m4rg7i" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mkyzow45mnwk4a33vsb2m4rg7i&count=1&unique=true|1|on|yes" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mkyzow45mnwk4a33vsb2m4rg7i&count=1&width=500" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -34,17 +34,17 @@ Spotify
 ### Stats
 
 <div align="center">
-<img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinfauzan&hide_border=true&theme=tokyonight" />
+<img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinfauzani&hide_border=true&theme=tokyonight" />
 </div>
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adinfauzan&hide_border=true&hide_title=true&theme=tokyonight&show_icons=true&count_private=true&color=random" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adinfauzani&hide_border=true&hide_title=true&theme=tokyonight&show_icons=true&count_private=true&color=random" align="center" />
 </div>
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinfauzan&hide_border=true&hide_title=true&layout=compact&theme=tokyonight" align="center" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinfauzani&hide_border=true&hide_title=true&layout=compact&theme=tokyonight" align="center" /></div>
 
 ###
 
@@ -52,7 +52,7 @@ Spotify
 
 <div align="center">
 	
-<a href="https://github.com/Adinfauzan" target="_blank">
+<a href="https://github.com/Adinfauzani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt=github style="margin-bottom: 1px;" />
 </a>
 
