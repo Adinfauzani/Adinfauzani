@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=08F7FE&center=true&vCenter=true&width=850&lines=⚡+Welcome+To+My+Profile;🚀+Fullstack+Developer+From+Indonesia;🎌+Building+Soraku+Ecosystem;🤖+Bot%20Discord+%7C+Anime+%7C+Future+Technology;💻+Next.js+•+Flutter+•+NestJS+"/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/INDONESIAN-TOKYO-08F7FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INDONESIAN-DEV-08F7FE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-FE53BB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ANIME-LOVER-F5D300?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SORAKU-ECOSYSTEM-00ff99?style=for-the-badge"/>
@@ -139,7 +139,7 @@ with modern clean UI.
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-08F7FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-CYBERPUNK-FE53BB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-ERROR-FE53BB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-F5D300?style=for-the-badge"/>
 
 </div>
