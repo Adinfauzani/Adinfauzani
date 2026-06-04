@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/INDONESIAN-DEV-08F7FE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-FE53BB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ANIME-LOVER-F5D300?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MOLOR-LOVER-F5D300?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SORAKU-ECOSYSTEM-00ff99?style=for-the-badge"/>
 </p>
 
@@ -15,104 +15,68 @@
 
 ---
 
-# 🧠 SYSTEM INFO
+## 🧠 Profile Overview
+
+<div align="left">
 
 ```yaml
 Name: Adin Fauzan
 Alias: Riu
 Role: Fullstack Developer
-Location: Indonesia 🇮🇩
 
 Focus:
-  - Web Development
-  - Mobile App Development
-  - AI Integration
-  - Anime Streaming Platform
-  - Modern UI/UX
-  - Backend Architecture
+  • Web Development
+  • Mobile Development
+  • Anime Streaming Platform
+  • Modern UI/UX
+  • Backend Architecture
+  • Digital Media Ecosystem
 ```
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS_Code-08F7FE?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Music-Spotify-08F7FE?style=for-the-badge&logo=spotify" />
+</p>
 
-### ⚡ TECH ARSENAL
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mkyzow45mnwk4a33vsb2m4rg7i&count=1&width=540" />
+</p>
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,tailwind,nodejs,nestjs,express,bun,flutter,dart,firebase,supabase,mysql,postgres,mongodb,redis,prisma,docker,git,github,linux,figma,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,tailwind,nodejs,nestjs,express,bun,flutter,dart,firebase,supabase,mysql,postgres,mongodb,redis,prisma,docker,git,github,cloudflare,linux,figma,vscode&perline=9"/>
 
 </div>
 
-### 🚀 FRONTEND DEVELOPMENT
+<br>
+
+## 🌌 Current Mission
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,tailwind"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=08F7FE&center=true&vCenter=true&width=700&lines=🚀+Building+Soraku+Ecosystem;🎬+Developing+Anime+Streaming+Platform;📱+Crafting+Modern+Flutter+Applications;🌐+Creating+The+Future+Of+Digital+Media"/>
 
 </div>
 
-### ⚙️ BACKEND DEVELOPMENT
+<br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun"/>
-
-</div>
-
-### 📱 MOBILE DEVELOPMENT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase"/>
-
-</div>
-
-### 🗄️ DATABASE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-
-</div>
-
-### ☁️ DEVOPS & CLOUD
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,linux,vercel"/>
-
-</div>
-
-### 🎨 UI / UX
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
-
-</div>
-
-### 🌌 CURRENT MISSION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=08F7FE&center=true&vCenter=true&width=700&lines=⚡+Initializing+Cyberpunk+Mission...;🚀+Building+Soraku+Ecosystem;🎬+Developing+Anime+Streaming+Platform;🤖+Integrating+Next+Generation+AI;📱+Crafting+Modern+Flutter+Applications;🌐+Creating+The+Future+Of+Digital+Media"/>
-
-<br/>
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="50%">
 
 ### 🚀 Soraku Ecosystem
-Modern digital ecosystem platform  
-focused on anime, media, and community.
+
+Building a modern digital ecosystem focused on community, media, and Japanese pop culture.
 
 </td>
 
 <td align="center" width="50%">
 
 ### 🎬 Anime Streaming
-Building scalable anime streaming  
-platform with modern architecture.
+
+Developing scalable streaming infrastructure with modern web technologies.
 
 </td>
 </tr>
@@ -120,56 +84,46 @@ platform with modern architecture.
 <tr>
 <td align="center" width="50%">
 
-### 🤖 AI Integration
-Developing AI recommendation system  
-for smarter user experience.
+### 📱 Mobile Experience
+
+Creating cross-platform applications with clean UI and optimized performance.
 
 </td>
 
 <td align="center" width="50%">
 
-### 📱 Flutter Development
-Creating cross-platform mobile apps  
-with modern clean UI.
+### 🌐 Digital Media
+
+Exploring new ways to connect content, creators, and communities.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-08F7FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-ERROR-FE53BB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-F5D300?style=for-the-badge"/>
-
-</div>
-
-### 🎧 SPOTIFY STATUS
+<br>
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/31mkyzow45mnwk4a33vsb2m4rg7i">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31mkyzow45mnwk4a33vsb2m4rg7i&count=1&width=540"/>
-
-</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-08F7FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROLE-FULLSTACK-08F7FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-ECOSYSTEMS-08F7FE?style=for-the-badge"/>
 
 </div>
 
-### 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adinfauzani&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adinfauzani&theme=nord_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinfauzani&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adinfauzani&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinfauzani&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adinfauzani&theme=nord_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinfauzani&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adinfauzani&theme=tokyonight&utcOffset=7" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinfauzani&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adinfauzani&theme=nord_dark&utcOffset=7" />
 </p>
 
 ### 🌐 CONNECT WITH ME
@@ -180,7 +134,7 @@ with modern clean UI.
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=08F7FE"/>
 </a>
 
-<a href="https://discord.gg/soraku">
+<a href="https://dcd.gg/soraku">
 <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
@@ -194,23 +148,17 @@ with modern clean UI.
 
 </div>
 
-
-### 👀 PROFILE VIEWS
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Adinfauzan&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:08F7FE,25:09FBD3,50:FE53BB,75:F5D300,100:00ff99"/>
-
 # ⚡ CODE THE FUTURE
 
 ### 「 Build • Innovate • Dominate 」
 
+<img src="https://komarev.com/ghpvc/?username=Adinfauzani&style=for-the-badge&color=08F7FE"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:08F7FE,25:09FBD3,50:FE53BB,75:F5D300,100:00ff99"/>
 </div>
