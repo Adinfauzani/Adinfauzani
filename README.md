@@ -42,7 +42,7 @@ Focus:
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mkyzow45mnwk4a33vsb2m4rg7i&count=1&width=540" />
 </p>
 
-## ⚡ Tech Arsenal
+## ⚡ My Tech
 
 <div align="center">
 
