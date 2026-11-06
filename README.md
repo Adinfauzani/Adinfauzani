@@ -39,7 +39,11 @@ Focus:
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mkyzow45mnwk4a33vsb2m4rg7i&count=1&width=540" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mkyzow45mnwk4a33vsb2m4rg7i&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mkyzow45mnwk4a33vsb2m4rg7i&amp;theme=light" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mkyzow45mnwk4a33vsb2m4rg7i&amp;theme=dark" alt="Spotify recently played" width="400" />
+</picture>
 </p>
 
 ## ⚡ My Tech
