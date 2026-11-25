@@ -90,10 +90,10 @@ const totals = repositories.reduce((sum, repo) => ({
   issues: sum.issues + (repo.open_issues_count ?? 0),
 }), { stars: 0, forks: 0, issues: 0 });
 
+const allLanguageTotal = Object.values(languages).reduce((sum, bytes) => sum + bytes, 0) || 1;
 const topLanguages = Object.entries(languages)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 6);
-const languageTotal = topLanguages.reduce((sum, [, bytes]) => sum + bytes, 0) || 1;
 
 const escapeXml = (value) => String(value)
   .replaceAll("&", "&amp;")
@@ -135,7 +135,7 @@ topLanguages.forEach(([name, bytes], index) => {
       <text x="0" y="0" fill="#d8dee9" font-size="11">${escapeXml(name)}</text>
       <rect x="126" y="-10" width="330" height="7" rx="3.5" fill="#3b4252"/>
       <rect x="126" y="-10" width="${(width / 490) * 330}" height="7" rx="3.5" fill="${colors[index % colors.length]}"/>
-      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">${Math.round((bytes / languageTotal) * 100)}%</text>
+      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">${Math.round((bytes / allLanguageTotal) * 100)}%</text>
     </g>`;
 });
 
