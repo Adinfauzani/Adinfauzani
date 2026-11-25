@@ -1,18 +1,96 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc">
   <title id="title">Combined GitHub Analytics</title>
-  <desc id="desc">Combined public GitHub analytics for Adinfauzani, Rynexid, and Sorakuid. The first scheduled workflow will populate live statistics.</desc>
+  <desc id="desc">Aggregated public repository statistics for Adinfauzani, Rynexid, and Sorakuid.</desc>
   <rect width="1000" height="510" rx="18" fill="#242933"/>
   <rect x="1" y="1" width="998" height="508" rx="17" fill="none" stroke="#434c5e"/>
-  <text x="48" y="58" fill="#eceff4" font-family="Arial,sans-serif" font-size="24" font-weight="700">GitHub Analytics</text>
-  <text x="48" y="84" fill="#8994a6" font-family="Arial,sans-serif" font-size="12">ADINFAUZANI + RYNEXID + SORAKUID</text>
-  <rect x="48" y="126" width="904" height="112" rx="14" fill="#2e3440" stroke="#434c5e"/>
-  <text x="500" y="172" fill="#eceff4" font-family="Arial,sans-serif" font-size="20" text-anchor="middle">Combined analytics is being initialized</text>
-  <text x="500" y="201" fill="#aeb9ca" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">The first GitHub Actions run will replace this placeholder with live statistics.</text>
-  <text x="48" y="286" fill="#eceff4" font-family="Arial,sans-serif" font-size="14" font-weight="700">SOURCES</text>
-  <g font-family="Arial,sans-serif" font-size="13" fill="#d8dee9">
-    <circle cx="56" cy="324" r="5" fill="#88c0d0"/><text x="72" y="329">Adinfauzani — Personal account</text>
-    <circle cx="56" cy="360" r="5" fill="#a3be8c"/><text x="72" y="365">Rynexid — Organization</text>
-    <circle cx="56" cy="396" r="5" fill="#ebcb8b"/><text x="72" y="401">Sorakuid — Organization</text>
+  <text x="48" y="54" fill="#eceff4" font-size="23" font-weight="700">GitHub Analytics</text>
+  <text x="48" y="78" fill="#8994a6" font-size="12">COMBINED OVERVIEW · ADINFAUZANI + RYNEXID + SORAKUID</text>
+  <rect x="804" y="35" width="148" height="28" rx="14" fill="#2e3440" stroke="#434c5e"/>
+  <circle cx="820" cy="49" r="4" fill="#a3be8c"/>
+  <text x="832" y="53" fill="#c7d0dc" font-size="10" font-weight="700">PUBLIC DATA</text>
+  
+  <g transform="translate(48 128)">
+    <rect width="214" height="91" rx="12" fill="#2e3440" stroke="#434c5e"/>
+    <text x="18" y="27" fill="#a3b0c2" font-size="11" font-weight="700" letter-spacing="1.1">PUBLIC REPOSITORIES</text>
+    <text x="18" y="62" fill="#eceff4" font-size="29" font-weight="700">32</text>
+    <text x="18" y="80" fill="#7f8a9c" font-size="10">Across all three sources</text>
   </g>
-  <text x="952" y="486" fill="#687386" font-family="Arial,sans-serif" font-size="10" text-anchor="end">Nord Dark · Automated with GitHub Actions</text>
+  
+  <g transform="translate(278 128)">
+    <rect width="214" height="91" rx="12" fill="#2e3440" stroke="#434c5e"/>
+    <text x="18" y="27" fill="#a3b0c2" font-size="11" font-weight="700" letter-spacing="1.1">TOTAL STARS</text>
+    <text x="18" y="62" fill="#eceff4" font-size="29" font-weight="700">7</text>
+    <text x="18" y="80" fill="#7f8a9c" font-size="10">Stars received</text>
+  </g>
+  
+  <g transform="translate(508 128)">
+    <rect width="214" height="91" rx="12" fill="#2e3440" stroke="#434c5e"/>
+    <text x="18" y="27" fill="#a3b0c2" font-size="11" font-weight="700" letter-spacing="1.1">TOTAL FORKS</text>
+    <text x="18" y="62" fill="#eceff4" font-size="29" font-weight="700">1</text>
+    <text x="18" y="80" fill="#7f8a9c" font-size="10">Repository forks</text>
+  </g>
+  
+  <g transform="translate(738 128)">
+    <rect width="214" height="91" rx="12" fill="#2e3440" stroke="#434c5e"/>
+    <text x="18" y="27" fill="#a3b0c2" font-size="11" font-weight="700" letter-spacing="1.1">OPEN ISSUES</text>
+    <text x="18" y="62" fill="#eceff4" font-size="29" font-weight="700">11</text>
+    <text x="18" y="80" fill="#7f8a9c" font-size="10">Across public repositories</text>
+  </g>
+  <text x="48" y="245" fill="#eceff4" font-size="13" font-weight="700">SOURCE BREAKDOWN</text>
+  
+    <g transform="translate(48 270)">
+      <circle cx="5" cy="-4" r="4" fill="#88c0d0"/>
+      <text x="17" y="0" fill="#aeb9ca" font-size="11" font-weight="700" letter-spacing=".8">PERSONAL</text>
+      <text x="17" y="25" fill="#eceff4" font-size="21" font-weight="700">18 <tspan fill="#8994a6" font-size="11" font-weight="400">public repos</tspan></text>
+    </g>
+    <g transform="translate(348 270)">
+      <circle cx="5" cy="-4" r="4" fill="#a3be8c"/>
+      <text x="17" y="0" fill="#aeb9ca" font-size="11" font-weight="700" letter-spacing=".8">RYNEXID</text>
+      <text x="17" y="25" fill="#eceff4" font-size="21" font-weight="700">9 <tspan fill="#8994a6" font-size="11" font-weight="400">public repos</tspan></text>
+    </g>
+    <g transform="translate(648 270)">
+      <circle cx="5" cy="-4" r="4" fill="#ebcb8b"/>
+      <text x="17" y="0" fill="#aeb9ca" font-size="11" font-weight="700" letter-spacing=".8">SORAKUID</text>
+      <text x="17" y="25" fill="#eceff4" font-size="21" font-weight="700">5 <tspan fill="#8994a6" font-size="11" font-weight="400">public repos</tspan></text>
+    </g>
+  <line x1="48" y1="310" x2="952" y2="310" stroke="#3b4252"/>
+  <text x="48" y="333" fill="#eceff4" font-size="13" font-weight="700">TOP LANGUAGES</text>
+  
+    <g transform="translate(48 345)">
+      <text x="0" y="0" fill="#d8dee9" font-size="11">TypeScript</text>
+      <rect x="126" y="-10" width="330" height="7" rx="3.5" fill="#3b4252"/>
+      <rect x="126" y="-10" width="225.418831536439" height="7" rx="3.5" fill="#88c0d0"/>
+      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">68%</text>
+    </g>
+    <g transform="translate(48 369)">
+      <text x="0" y="0" fill="#d8dee9" font-size="11">JavaScript</text>
+      <rect x="126" y="-10" width="330" height="7" rx="3.5" fill="#3b4252"/>
+      <rect x="126" y="-10" width="87.62370894085974" height="7" rx="3.5" fill="#a3be8c"/>
+      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">27%</text>
+    </g>
+    <g transform="translate(48 393)">
+      <text x="0" y="0" fill="#d8dee9" font-size="11">Kotlin</text>
+      <rect x="126" y="-10" width="330" height="7" rx="3.5" fill="#3b4252"/>
+      <rect x="126" y="-10" width="4.92037892035376" height="7" rx="3.5" fill="#ebcb8b"/>
+      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">1%</text>
+    </g>
+    <g transform="translate(48 417)">
+      <text x="0" y="0" fill="#d8dee9" font-size="11">CSS</text>
+      <rect x="126" y="-10" width="330" height="7" rx="3.5" fill="#3b4252"/>
+      <rect x="126" y="-10" width="4.187069909044019" height="7" rx="3.5" fill="#b48ead"/>
+      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">1%</text>
+    </g>
+    <g transform="translate(48 441)">
+      <text x="0" y="0" fill="#d8dee9" font-size="11">PHP</text>
+      <rect x="126" y="-10" width="330" height="7" rx="3.5" fill="#3b4252"/>
+      <rect x="126" y="-10" width="3.730648265797783" height="7" rx="3.5" fill="#81a1c1"/>
+      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">1%</text>
+    </g>
+    <g transform="translate(48 465)">
+      <text x="0" y="0" fill="#d8dee9" font-size="11">Blade</text>
+      <rect x="126" y="-10" width="330" height="7" rx="3.5" fill="#3b4252"/>
+      <rect x="126" y="-10" width="2.020408163265306" height="7" rx="3.5" fill="#d08770"/>
+      <text x="470" y="0" fill="#8994a6" font-size="10" text-anchor="end">0%</text>
+    </g>
+  <text x="952" y="486" fill="#687386" font-size="10" text-anchor="end">Updated 2026-11-25 18:47 UTC · Generated automatically with GitHub Actions</text>
 </svg>
