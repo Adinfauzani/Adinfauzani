@@ -1,0 +1,48 @@
+name: Update Combined GitHub Analytics
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/github-analytics.mjs"
+      - ".github/workflows/github-analytics-aggregate.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-analytics
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate combined analytics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/github-analytics.mjs
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-analytics.svg
+          if git diff --cached --quiet; then
+            echo "Analytics card is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update combined GitHub analytics"
+          git push
