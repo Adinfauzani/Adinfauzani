@@ -117,17 +117,7 @@ Exploring new ways to connect content, creators, and communities.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adinfauzani&theme=nord_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinfauzani&theme=nord_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adinfauzani&theme=nord_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinfauzani&theme=nord_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adinfauzani&theme=nord_dark&utcOffset=7" />
+  <img width="100%" src="./assets/github-analytics.svg" alt="Combined GitHub Analytics: Adinfauzani, Rynexid, and Sorakuid" />
 </p>
 
 ### 🌐 CONNECT WITH ME
