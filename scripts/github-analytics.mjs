@@ -129,7 +129,7 @@ const sourceLine = sourceResults.map((source, index) => {
 let languageRows = "";
 topLanguages.forEach(([name, bytes], index) => {
   const y = 345 + index * 24;
-  const width = Math.max(3, (bytes / languageTotal) * 490);
+  const width = Math.max(3, (bytes / allLanguageTotal) * 490);
   languageRows += `
     <g transform="translate(48 ${y})">
       <text x="0" y="0" fill="#d8dee9" font-size="11">${escapeXml(name)}</text>
