@@ -56,64 +56,6 @@ Focus:
 
 <br>
 
-## 🌌 Current Mission
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=08F7FE&center=true&vCenter=true&width=700&lines=🚀+Building+Soraku+Ecosystem;🎬+Developing+Anime+Streaming+Platform;📱+Crafting+Modern+Flutter+Applications;🌐+Creating+The+Future+Of+Digital+Media"/>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🚀 Soraku Ecosystem
-
-Building a modern digital ecosystem focused on community, media, and Japanese pop culture.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🎬 Anime Streaming
-
-Developing scalable streaming infrastructure with modern web technologies.
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 📱 Mobile Experience
-
-Creating cross-platform applications with clean UI and optimized performance.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Digital Media
-
-Exploring new ways to connect content, creators, and communities.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-08F7FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ROLE-FULLSTACK-08F7FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-ECOSYSTEMS-08F7FE?style=for-the-badge"/>
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
